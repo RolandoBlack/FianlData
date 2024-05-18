@@ -9,3 +9,11 @@ A .zip archive containing the Leeds LSOA shp files.<br>
 Two .zip archives containing Leeds Census raw data (including citations and metadata).<br>
 Two folders extracted from .zip archive of Leeds Census raw data.<br>
 ### Data Explanation<br>
+***BoundaryData.zip*** A compressed archive (.zip) containing the Leeds census boundary (LSOA) file (.shp)<br>
+***202451622130240_CARVAN_UNIT.zip*** A compressed archive (.zip) of raw Census data for Leeds on "households with disability with or without depended children", including metadata and citations.<br>
+***202451621246377_CARVAN_UNIT.zip*** A compressed archive (.zip) containing raw Census data on car availability in Leeds, including metadata and citations.<br>
+***202451622130240_CARVAN_UNIT*** Folder, extracted from the "202451622130240_CARVAN_UNIT.zip" compressed package.<br>
+***202451621246377_CARVAN_UNIT*** Folder, extracted from the "202451621246377_CARVAN_UNIT.zip" compressed package.<br>
+***car_avai.csv*** A .csv table containing Leeds car availability data read in by Python code written in the notebook.<br>
+***depended_chd_with_unable.csv*** A .csv table containing "households with disability with or without depended children" data of Leeds read in by Python code written in the notebook.<br>
+***fuel_poverty_by_LSOA.csv*** A .csv table containing fuel poverty data for England at the LSOA scale read in by Python code written in the notebook.<br>
